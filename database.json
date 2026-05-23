@@ -3,27 +3,6 @@
     "username": "admin",
     "password": "admin123"
   },
-  "members": [
-    {
-      "id": "m_demo",
-      "name": "Demo Member",
-      "email": "demo@example.com",
-      "note": "Demo license for testing",
-      "createdAt": "2026-05-22T00:00:00.000Z"
-    }
-  ],
-  "licenses": [
-    {
-      "key": "LIC-DEMO-1234-5678",
-      "memberId": "m_demo",
-      "status": "active",
-      "maxDevices": 2,
-      "devices": [],
-      "expiresAt": "",
-      "createdAt": "2026-05-22T00:00:00.000Z",
-      "durationAmount": 30,
-      "durationUnit": "days",
-      "devicesResetAt": ""
-    }
-  ]
+  "members": [],
+  "licenses": []
 }
